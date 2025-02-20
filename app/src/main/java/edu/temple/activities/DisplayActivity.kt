@@ -50,5 +50,9 @@ class DisplayActivity : AppCompatActivity() {
             textSizeLauncher.launch(intent)
         }
 
+        /* Added a comment just so my commit would work correctly
+
+         */
+
     }
 }
